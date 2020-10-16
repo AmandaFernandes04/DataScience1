@@ -1,0 +1,2 @@
+a = 'Amanda
+print (a)
